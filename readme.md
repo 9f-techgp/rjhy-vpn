@@ -2,7 +2,7 @@
 
 为保障九方智投学习机项目组非工作日的产品上线流程正常运转，相关项目组成员可参考本测试环境VPN登录指南远程接入办公环境。
 
-访问 https://upload.techgp.cn/yzgd/EasyConnectInstaller.zip 下载VPN客户端配置文件压缩包，解压密码：rjhy-vpn，根据下述方法登录VPN。（如果遇到问题，可直接跳到常见问题章节。） 
+访问 https://upload.techgp.cn/yzgd/EasyConnectInstaller.zip 下载VPN客户端配置文件压缩包，解压密码：rjhy-vpn，根据下述方法登录VPN。（测试通用vpn账号密码：**user：test，password：rjhy@test111111**，如果遇到问题，可直接跳到常见问题章节。） 
 
 ## 一、PC 端登录
 ### 1、解压压缩包，双击打开 EasyConnectInstaller文件：
@@ -47,4 +47,4 @@
 2) 用户被禁用。无法进行任何操作，请联系项目组相关VPN负责人。
 
 ### 4. VPN地址无法访问。
-解决方法：企微主体切换至上海九方云智能科技有限公司，联系vpn总负责人：王亮。
+解决方法：企微主体切换至九方智投控股-九方云智能科技有限公司，联系vpn总负责人：王亮。
